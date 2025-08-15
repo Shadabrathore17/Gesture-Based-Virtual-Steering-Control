@@ -1,0 +1,6 @@
+
+opencv-python
+pynput
+pyautogui
+pydirectinput
+cvzone
