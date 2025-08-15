@@ -48,8 +48,8 @@ PyDirectInput sends the corresponding keystrokes to the game.
 
 Clone the repository:-
 
-git clone https://github.com/yourusername/gesture-steering-control.git
-cd gesture-steering-control
+git clone https:
+//https://github.com/Shadabrathore17/Gesture-Based-Virtual-Steering-Control
 
 
 Install dependencies :-
